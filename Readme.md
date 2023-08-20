@@ -14,7 +14,8 @@ JavaScript : qui a permet la gestion des personnages qui apparaissent et dispara
 # Fonctionnalités:
 
 * Le jeu comporte trois niveaux de difficulté : Novice, Apprenti et Expert.
-  *
+
+  
 ![rick1](https://github.com/SalouaE1/Rick-Morty/assets/139327537/bdc7a938-b19b-451e-bdb9-405a337511e8)
 
 * Le joueur peut choisir un niveau en cliquant sur les boutons correspondants.
